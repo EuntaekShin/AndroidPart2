@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Listview.iml" filepath="$PROJECT_DIR$/Listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity/activity.iml" filepath="$PROJECT_DIR$/activity/activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boradcast/boradcast.iml" filepath="$PROJECT_DIR$/boradcast/boradcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demonservice/demonservice.iml" filepath="$PROJECT_DIR$/demonservice/demonservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallayview/gallayview.iml" filepath="$PROJECT_DIR$/gallayview/gallayview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inflatation/inflatation.iml" filepath="$PROJECT_DIR$/inflatation/inflatation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewex/listviewex.iml" filepath="$PROJECT_DIR$/listviewex/listviewex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollgalleryview/scrollgalleryview.iml" filepath="$PROJECT_DIR$/scrollgalleryview/scrollgalleryview.iml" />
+    </modules>
+  </component>
+</project>

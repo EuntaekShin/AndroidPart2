@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+   <TextView
+       android:id="@+id/txt1"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Practice Inflation Test"
+       android:layout_marginTop="30dp"
+       android:gravity="center_horizontal"
+       android:textSize="20dp"
+       android:textColor="#a63"/>
+
+   <Button
+       android:id="@+id/btn1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal"
+       android:text="ADD Layout"
+       android:textSize="20dp"
+       android:textStyle="bold"
+       android:onClick="btn1" />
+
+   <LinearLayout
+       android:orientation="vertical"
+       android:id="@+id/addLayout"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+
+   </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,1 @@
+include ':app', ':listviewex', ':gridview', ':gallayview', ':scrollgalleryview', ':inflatation', ':activity', ':intent', ':lifecycle', ':demonservice', ':boradcast'
